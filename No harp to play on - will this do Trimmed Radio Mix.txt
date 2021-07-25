@@ -1,0 +1,55 @@
+###########################################################
+# No harp to play on, will this do? 
+# Radio Mix
+#
+# by Michael Earls
+# https://cerkit.com
+###########################################################
+
+Psalm
+
+Psalm -> Chapter71 EndingPrayer
+
+Chapter71 -> Verse22
+
+EndingPrayer -> Glory! Glory! Amen
+
+#######################
+# Scripture
+#######################
+
+Verse22 -> Introduction Message Conclusion
+
+Introduction -> 30 0 0 1 1 2 2
+
+Message -> I_will_thank_you_with_a_harp preChorus I_will_thank_your_for_being_faithful preChorus my_God preChorus I_will_make_music_for_you_with_the_Lyre preChorus Chorus
+
+Conclusion -> holy_one_of_Israel
+
+Glory! -> holy_one_of_Israel_high
+
+##############################################################
+# Rules
+##############################################################
+# Footnotes - made with a dash of 
+# inspiration  and ReNoam by f_d_k - https://www.renoise.com/tools/renoam
+# this and other music at https://cerkit.bandcamp.com
+##############################################################
+# Using Renoise 3.3.2 with Reasonstudios Reason 12 
+# Rack Extensions as a VST plugin
+# Using the Scandi Noir Sound Pack 
+# from https://share.reasonstudios.com/pack/350
+##############################################################
+
+I_will_thank_you_with_a_harp -> 3 3
+I_will_thank_your_for_being_faithful -> 4 5
+my_God -> 6 7
+I_will_make_music_for_you_with_the_Lyre -> 8 9
+holy_one_of_Israel -> 14 14
+holy_one_of_Israel_high -> 23 23
+##############################################################
+preChorus -> 10 10
+Chorus  -> 12 12 13 13
+
+Amen -> 29
+##############################################################

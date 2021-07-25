@@ -1,0 +1,63 @@
+###########################################################
+# Psalm 71:24 Master Mix
+#
+# by Michael Earls
+# https://cerkit.com
+###########################################################
+
+Psalm
+
+#######################
+# Bible Study
+#######################
+# Rules:
+#######################
+
+Psalm -> Chapter71 EndingPrayer
+
+Chapter71 -> Verse22
+
+EndingPrayer -> my_God my_God_high Glory!
+
+#######################
+# Scripture
+#######################
+
+Verse22 -> Introduction Message Conclusion
+
+Introduction -> 30 0 0 1 1 2
+
+Message -> I_will_thank_you_with_a_harp preChorus I_will_thank_your_for_being_faithful_high preChorus Chorus my_God preChorus I_will_make_music_for_you_with_the_Lyre preChorus Chorus
+
+Conclusion -> holy_one_of_Israel
+
+Glory! -> holy_one_of_Israel_high Amen
+
+##############################################################
+# Rules
+##############################################################
+# Footnotes - made with a dash of 
+# inspiration  and ReNoam by f_d_k - https://www.renoise.com/tools/renoam
+# this and other music at https://cerkit.bandcamp.com
+##############################################################
+# Using Renoise 3.3.2 with Reasonstudios Reason 12 
+# Rack Extensions as a VST plugin
+# Using the Scandi Noir Sound Pack 
+# from https://share.reasonstudios.com/pack/350
+##############################################################
+
+I_will_thank_you_with_a_harp -> 2 3 2 3
+I_will_thank_you_with_a_harp_high -> 19 20 19 20
+I_will_thank_your_for_being_faithful -> 4 5 4 5
+I_will_thank_your_for_being_faithful_high ->  27 28 27 28
+my_God -> 6 7 6 7
+my_God_high -> 21 22 21 22
+I_will_make_music_for_you_with_the_Lyre -> 8 9 8 9
+holy_one_of_Israel -> 14 15 16 17
+holy_one_of_Israel_high -> 23 24 25 26
+##############################################################
+preChorus -> 10 10
+Chorus  -> 11 11 12 13
+
+Amen -> 29
+##############################################################
