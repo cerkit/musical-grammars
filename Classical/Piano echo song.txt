@@ -1,6 +1,0 @@
-Song
-
-Song -> Part1 Part2
-
-Part1 -> 0 1
-Part2 -> 2 3
