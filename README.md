@@ -19,7 +19,7 @@ You can read more about that process on my blog.
 
 I decided that the first set of experiments that I wanted to conduct involved expressing Haikus as grammars. I started with a haiku:
 
-Awake we can't see<br>
+Awake, we can't see<br>
 dreams are custom messages.<br>
 Nighttime is coming.<br>
 
