@@ -1,0 +1,20 @@
+Song
+Song -> Descending into sleep
+
+Descending -> Start with a guitar,
+into -> then on to something mellow.
+sleep -> Finish using pads.
+
+# Word definitions
+Start -> 0
+with -> 1
+a -> 2
+guitar, -> 3 3
+then -> 4
+on -> 5
+to -> 6
+something -> 7 7
+mellow. -> 8 8
+Finish -> 9 9
+using -> 10 10
+pads. -> 11
