@@ -7,7 +7,13 @@ For managing musical grammars
 
 ## Grammars
 
-The first grammar that I created was based on Psalm 71:22. It was a Sunday and I thought it fitting, considering where I live (Alabama).
+I wrote a song for the first grammar that I created.
+
+[No harp to play on, will this do?](https://cerkit.bandcamp.com/track/no-harp-to-play-on-will-this-do)
+
+You can read more about that process on my blog.
+
+[Anatomy of a song: Using scripture as a song grammar](https://cerkit.com/2021/07/25/anatomy-of-a-song-using-scripture-as-a-song-grammar-post/).
 
 ### Haikus
 
